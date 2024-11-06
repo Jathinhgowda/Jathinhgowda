@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me: jathinhgowdavs@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There is mothing funnier about life
+- ⚡ Fun fact: There is nothing funnier about life
 
 <!---
 Jathinhgowda/Jathinhgowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
